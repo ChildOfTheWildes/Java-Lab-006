@@ -6,6 +6,9 @@ In this README.md, answer the following question:
 
 * What happens if you invoke a value method (i.e. a method that returns a result) and don't do anything with the returned result; that is, if you don't assign the returned result to a variable or use it as part of a larger expression?
 
+* Nothing happens. The value is returned and if you do not save it as a variable then I supposed it get overwritten 
+* when that chunk of memory gets used again.
+
 ## PART 2
 * Fork and clone this lab as you have done in all previous labs, and then complete the following:
     * Create a new **class** called **Lab006**
